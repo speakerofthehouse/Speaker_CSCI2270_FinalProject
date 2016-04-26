@@ -11,7 +11,7 @@ A map of the building is given in another file if you desire to see the layout o
 How to Run:
 
 The way to run this program should be simple.
-Once in a proper coding space, that contains the main, .cpp & .h properly conected then all you should need to do is to hit the run button to activate this program. The movement between rooms is run through user input requiring a user response with the numbers 1,2,3. The riddles used in this program are designed to be answered by user response, the user must answer as specified with the question. All but one riddle, as currently designed, are answers that require one word answers with lowercase letters. One answer requires a number and that number should be entered as a number (like 1,2,3,4,etc).
+Once in a proper coding space, that contains the main, .cpp & .h properly conected then all you should need to do is to hit the run button to activate this program. If you need to download the files individually then the class was created with no arguments. The movement between rooms is run through user input requiring a user response with the numbers 1,2,3. The riddles used in this program are designed to be answered by user response, the user must answer as specified with the question. All but one riddle, as currently designed, are answers that require one word answers with lowercase letters. One answer requires a number and that number should be entered as a number (like 1,2,3,4,etc).
 
 Dependencies:
 
