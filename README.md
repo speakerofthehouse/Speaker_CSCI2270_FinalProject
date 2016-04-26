@@ -9,22 +9,28 @@ their movement will be based on if that answer is a correct answer or not. If it
 A map of the building is given in another file if you desire to see the layout of the rooms and how they connect.
 
 How to Run:
+
 The way to run this program should be simple.
 Once in a proper coding space, that contains the main, .cpp & .h properly conected then all you should need to do is to hit the run button to activate this program. The movement between rooms is run through user input requiring a user response with the numbers 1,2,3. The riddles used in this program are designed to be answered by user response, the user must answer as specified with the question. All but one riddle, as currently designed, are answers that require one word answers with lowercase letters. One answer requires a number and that number should be entered as a number (like 1,2,3,4,etc).
 
 Dependencies:
+
 This program should not need any dependencies. It was build in the given Code::Blocks environment designed for use throughout this class and it should not require any additional downloads or installations.
 
 System Requirements:
+
 There are no additional system requirements that I built into the program. This code was designed on Code::Blocks so if your system can run Code::Blocks or is able to work with c++ as code blocks does it should be ok to use.
 
 Group Members:
+
 There were no other group members on this assignment.
 
 Contributors:
+
 There were no other contributors for this assignment.
 
 Open issues/bugs:
+
 There should be no immediate bugs or code errors that prevent the code from running.
 However, there are a few things that could be done to make the project run more smoothly:
 
@@ -35,5 +41,6 @@ However, there are a few things that could be done to make the project run more 
 
 
 Phase 1 readme description:
+
 This project is designed to model, in a way, a basic D&D game structure. What it does is it builds a few connecting and non connection rooms and the user's objective is to get to the final room and find the treasure. The rooms are created and connected through the creation and connection of nodes. The 10 functions that are required in this assignment will come out to be the createnode function and a different function for each room. All of the room functions will be different because of the connections between rooms; however, some rooms will also have tasks for the user to complete before they can move on, such as answering riddles. This project also heavily requires on userinputs and menus for the user to select from. 
 
